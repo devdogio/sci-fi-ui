@@ -1,0 +1,481 @@
+fileFormatVersion: 2
+guid: d9b7f164c39347a42b588d9b138cd79b
+timeCreated: 1454585318
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Border_BgLight
+    21300002: Border_NoBG
+    21300004: Ico_Cross
+    21300006: Ico_Search
+    21300008: Ico_Caret
+    21300010: Ico_Star
+    21300012: Ico_Plus
+    21300014: Ico_CrossLarge
+    21300016: Ico_StarFilled
+    21300018: Border_DropdownBG
+    21300020: TriangelTest_TEMP
+    21300022: TEMP123
+    21300024: Circle
+    21300026: Dots
+    21300028: CircleBorder
+    21300030: CircleBorder_BG
+    21300032: BG
+    21300034: Icon_GUN_TEMP
+    21300036: Transparent
+    21300038: Ico_GridView
+    21300040: Ico_ListView
+    21300042: Ico_LB
+    21300044: Ico_RB
+    21300046: Ico_Clock
+    21300048: Ico_Profile
+    21300050: Ico_Bullet_Empty
+    21300052: Ico_Bullet
+    21300054: Rarity_Edge_Wrapper
+    21300056: Ico_Lightningbold
+    21300058: CursorIcon
+    21300060: BoxGlowy
+    21300062: Pointer
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Border_BgLight
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1013
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 2, y: 2, z: 2, w: 2}
+      outline: []
+    - name: Border_NoBG
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 1013
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 2, y: 2, z: 2, w: 2}
+      outline: []
+    - name: Ico_Cross
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 1011
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Ico_Search
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 1002
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Ico_Caret
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 1012
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Ico_Star
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 1004
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Ico_Plus
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 1003
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Ico_CrossLarge
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 1003
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Ico_StarFilled
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 983
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Border_DropdownBG
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1002
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 2, y: 2, z: 2, w: 2}
+      outline: []
+    - name: TriangelTest_TEMP
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 858
+        width: 103
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -51.5, y: 42}
+        - {x: -51.5, y: 33}
+        - {x: -48.5, y: 22}
+        - {x: -10.5, y: -42}
+        - {x: 10.5, y: -42}
+        - {x: 22.5, y: -37}
+        - {x: 51.5, y: 35}
+        - {x: 51.5, y: 42}
+    - name: TEMP123
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 858
+        width: 93
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -46.5, y: 42}
+        - {x: -46.5, y: 31}
+        - {x: -45.5, y: 26}
+        - {x: -1.5, y: -42}
+        - {x: 5.5, y: -42}
+        - {x: 12.5, y: -35}
+        - {x: 12.5, y: -19}
+        - {x: -19.5, y: 42}
+      - - {x: 37.5, y: 38}
+        - {x: 7.5, y: -10}
+        - {x: 7.5, y: -19}
+        - {x: 10.5, y: -25}
+        - {x: 15.5, y: -25}
+        - {x: 46.5, y: 26}
+        - {x: 46.5, y: 38}
+    - name: Dots
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 1012
+        width: 132
+        height: 3
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: CircleBorder
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 965
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: CircleBorder_BG
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 948
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 12, y: 23}
+        - {x: -12, y: 23}
+        - {x: -15, y: 21}
+        - {x: -21, y: 15}
+        - {x: -23, y: 12}
+        - {x: -23, y: -12}
+        - {x: -21, y: -15}
+        - {x: -15, y: -21}
+        - {x: -12, y: -23}
+        - {x: 12, y: -23}
+        - {x: 23, y: -17}
+        - {x: 23, y: 14}
+        - {x: 15, y: 21}
+    - name: BG
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 924
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -50, y: 50}
+        - {x: -50, y: -50}
+        - {x: 50, y: -50}
+        - {x: 50, y: 50}
+    - name: Transparent
+      rect:
+        serializedVersion: 2
+        x: 823
+        y: 924
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Ico_GridView
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 952
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Ico_ListView
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 952
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Ico_LB
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 973
+        width: 40
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Ico_RB
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 973
+        width: 40
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Ico_Profile
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 972
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 16}
+        - {x: -16, y: 14}
+        - {x: -16, y: -16}
+        - {x: 15, y: -16}
+        - {x: 16, y: -13}
+        - {x: 16, y: 13}
+        - {x: 11, y: 16}
+    - name: Ico_Clock
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 972
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 15, y: 16}
+        - {x: -14, y: 16}
+        - {x: -16, y: 15}
+        - {x: -16, y: -16}
+        - {x: 15, y: -16}
+        - {x: 16, y: -13}
+        - {x: 16, y: 13}
+      - - {x: -7, y: 7}
+        - {x: 2, y: 10}
+        - {x: 10, y: -3}
+        - {x: 2, y: -11}
+      - - {x: 1, y: 9}
+        - {x: -2, y: 9}
+        - {x: -4, y: 7}
+        - {x: -4, y: -4}
+        - {x: 3, y: -9}
+        - {x: 8, y: -9}
+        - {x: 10, y: -6}
+        - {x: 10, y: -2}
+        - {x: 3, y: 7}
+    - name: Ico_Bullet_Empty
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 950
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Ico_Bullet
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 954
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Rarity_Edge_Wrapper
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 950
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Ico_Lightningbold
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 947
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: BoxGlowy
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 939
+        width: 68
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 30, y: 30, z: 30, w: 30}
+      outline:
+      - - {x: -31, y: 34}
+        - {x: -34, y: 29}
+        - {x: -34, y: -30}
+        - {x: -30, y: -34}
+        - {x: 34, y: -34}
+        - {x: 34, y: 34}
+    - name: Pointer
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 961
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,61 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8afd612ff369d57478f64872342bba5d, type: 3}
+  m_Name: InventorySettings
+  m_EditorClassIdentifier: 
+  iconDefaultMaterial: {fileID: 0}
+  iconDepletedMaterial: {fileID: 0}
+  onPointerUpInsidePadding: {x: 0, y: 0}
+  itemButtonPrefab: {fileID: 102708, guid: 78ae95395168e7e49bca09531e69c3ed, type: 2}
+  collectionSorter: {fileID: 11400000, guid: 8d80bac175cb75344b8e4a480749a4fd, type: 2}
+  localPlayerLayer: 24
+  equipmentLayer: 25
+  itemWorldLayer: 26
+  useContextMenu: 0
+  showConfirmationDialogWhenDroppingItem: 1
+  useUnstackDialog: 1
+  mobileLongPressTime: 0.3
+  mobileDoubleTapTime: 0.4
+  itemDropHandler: {fileID: 11400000, guid: 0cbc71b05fc80304d8d6d0451925963b, type: 2}
+  useObjectDistance: 10
+  pickupCursor:
+    texture: {fileID: 0}
+    hotspot: {x: 0, y: 0}
+    cursorMode: 0
+  useCursor:
+    texture: {fileID: 0}
+    hotspot: {x: 0, y: 0}
+    cursorMode: 0
+  itemTriggerMouseClick: 1
+  itemTriggerUseKeyCode: 0
+  alwaysTriggerGoldItemPickupOnPlayerCollision: 0
+  itemTriggerOnPlayerCollision: 0
+  itemTriggerPickupSprite: {fileID: 0}
+  useUnstackClick: 1
+  useUnstackDrag: 1
+  unstackKeys:
+    eventType: 0
+    button: 1
+    keyCode: 304
+    alwaysTriggerMobileActions: 0
+    mobileAction: 3
+  useItemKeys:
+    eventType: 0
+    button: 1
+    keyCode: 0
+    alwaysTriggerMobileActions: 0
+    mobileAction: 3
+  triggerContextMenuKeys:
+    eventType: 0
+    button: 0
+    keyCode: 0
+    alwaysTriggerMobileActions: 0
+    mobileAction: 3

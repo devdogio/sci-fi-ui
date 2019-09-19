@@ -1,0 +1,49 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags: []
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Collision
+  - CollisionIK
+  - LightingHidden
+  - Navigation
+  - EdgeGrab
+  - DynamicObjects
+  - BuddyBot
+  - Doors
+  - 4275696c64696e67
+  - 4275696c64696e67536f636b6574
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - INV_PRO/LocalPlayer
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: UI_Dialogs
+    uniqueID: 217533055
+    locked: 0
+  - name: ForceTop
+    uniqueID: 2047363325
+    locked: 0
