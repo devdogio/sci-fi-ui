@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="https://i.imgur.com/WKtbFNZ.jpg" alt="Sci-Fi UI Design">
+    <img src="https://i.imgur.com/TGN8Clp.png" alt="Sci-Fi UI Design">
 </p>
 <h3 align="center" style="text-align:center;">
 	The uGUI Sci-Fi UI Design for Unity - now free and open-source!
